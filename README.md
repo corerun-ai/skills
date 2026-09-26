@@ -1,10 +1,10 @@
 # corerun skills
 
-Skills that teach a coding agent to drive [corerun](https://github.com/corerunai/corerun)
+Skills that teach a coding agent to drive [corerun](https://github.com/corerun-ai/corerun)
 through its CLI.
 
 ```
-/plugin marketplace add corerunai/skills
+/plugin marketplace add corerun-ai/skills
 /plugin install corerun@corerun
 ```
 
@@ -16,7 +16,7 @@ skills directory — this repository exists so that neither is required.
 ## This repository is generated
 
 Do not edit it. The skills live in
-[corerunai/corerun](https://github.com/corerunai/corerun) under
+[corerun-ai/corerun](https://github.com/corerun-ai/corerun) under
 `corerun-sdk/src/corerun/skills/`, beside the CLI they describe,
 because a skill and the commands it documents have to change together.
 Anything committed here by hand is overwritten on the next publish.
